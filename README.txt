@@ -1,16 +1,8 @@
-Hello world!
+This is the react js tutorial followed in ReactJSProgram.com,
+
+(Several months Ago)
 
 
-test1
 
-recover
-
-love XING
 Thu Sep 22 20:57:04 PDT 2016
 
-aasdadad
-aasfasdgad
-
-adfgdafgsg
-dfs
-gdfsgdfsgdfsgdfsgdsfgfg
